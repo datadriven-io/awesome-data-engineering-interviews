@@ -23,7 +23,7 @@ Every problem links to a public, runnable version on datadriven.io with sample d
 
 ## The 75
 
-Organized into 17 patterns across 4 tracks. Each pattern has a 2-sentence description of what it tests, followed by the questions that drill it. Work through them in order, or jump to the pattern you need.
+SQL is the bulk of every DE screen, so the SQL track is the longest. Window functions, CTEs, and NULL handling are where most candidates lose points - the syntax is easy, the edge cases are not. Data modeling and pipeline architecture are interleaved into the SQL and Python tracks rather than saved for the end, because in real interviews you have to switch contexts cold and the only way to practice that is to do it.
 
 ### SQL
 
