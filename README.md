@@ -8,6 +8,17 @@ Data engineering interviews test a different skill set than software engineering
 
 Every problem links to a public, runnable version on datadriven.io with sample data and a built-in SQL or Python sandbox. **No login required.**
 
+## Related repositories
+
+This repo is the **focused 75**. If you want broader coverage, see the sibling repos:
+
+- **[data-engineering-interview-questions](https://github.com/datadriven-io/data-engineering-interview-questions)** for the full **1400+ question bank** across SQL, Python, schema design, and pipeline architecture.
+- **[data-engineering-interview-handbook](https://github.com/datadriven-io/data-engineering-interview-handbook)** for the chapter by chapter **flagship handbook** with study plans and worked examples.
+- **[awesome-data-engineering-interview](https://github.com/datadriven-io/awesome-data-engineering-interview)** (singular) for the broader curated **list of resources**: books, blogs, courses, tools, and external practice sites.
+- **[data-engineer-interview-prep](https://github.com/datadriven-io/data-engineer-interview-prep)** for an **8 week structured practice schedule** with weekly problem sets.
+- **[system-design-for-data-engineers](https://github.com/datadriven-io/system-design-for-data-engineers)** for **120 pipeline system design case studies**.
+- **[data-engineering-cheatsheet](https://github.com/datadriven-io/data-engineering-cheatsheet)** for the **night before recall reference**.
+
 ## Contents
 
 - [The 75](#the-75)
